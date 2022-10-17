@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "https://.github.io/csb-zk4bgy/static/js/main.9c3586b3.chunk.js",
-    "main.js.map": "https://.github.io/csb-zk4bgy/static/js/main.9c3586b3.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-zk4bgy/static/js/runtime-main.35ed033b.js",
-    "runtime-main.js.map": "https://.github.io/csb-zk4bgy/static/js/runtime-main.35ed033b.js.map",
-    "static/js/2.3b8b61ec.chunk.js": "https://.github.io/csb-zk4bgy/static/js/2.3b8b61ec.chunk.js",
-    "static/js/2.3b8b61ec.chunk.js.map": "https://.github.io/csb-zk4bgy/static/js/2.3b8b61ec.chunk.js.map",
-    "index.html": "https://.github.io/csb-zk4bgy/index.html",
-    "static/js/2.3b8b61ec.chunk.js.LICENSE.txt": "https://.github.io/csb-zk4bgy/static/js/2.3b8b61ec.chunk.js.LICENSE.txt"
+    "main.js": "https://tech-an.github.io/csb-zk4bgy/static/js/main.9918319e.chunk.js",
+    "main.js.map": "https://tech-an.github.io/csb-zk4bgy/static/js/main.9918319e.chunk.js.map",
+    "runtime-main.js": "https://tech-an.github.io/csb-zk4bgy/static/js/runtime-main.68552f59.js",
+    "runtime-main.js.map": "https://tech-an.github.io/csb-zk4bgy/static/js/runtime-main.68552f59.js.map",
+    "static/js/2.3b8b61ec.chunk.js": "https://tech-an.github.io/csb-zk4bgy/static/js/2.3b8b61ec.chunk.js",
+    "static/js/2.3b8b61ec.chunk.js.map": "https://tech-an.github.io/csb-zk4bgy/static/js/2.3b8b61ec.chunk.js.map",
+    "index.html": "https://tech-an.github.io/csb-zk4bgy/index.html",
+    "static/js/2.3b8b61ec.chunk.js.LICENSE.txt": "https://tech-an.github.io/csb-zk4bgy/static/js/2.3b8b61ec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.35ed033b.js",
+    "static/js/runtime-main.68552f59.js",
     "static/js/2.3b8b61ec.chunk.js",
-    "static/js/main.9c3586b3.chunk.js"
+    "static/js/main.9918319e.chunk.js"
   ]
 }
